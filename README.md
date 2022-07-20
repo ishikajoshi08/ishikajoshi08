@@ -3,5 +3,6 @@
 <p>🏫  I have completed my Bachelor's in Engineering in Aditya Silver Oak Institute of Technology</p>
 <p>⚙️  Currently I am working as a Software Engineer in .Net Core and Angular Technology</p>
 <p>🌱  Taking knowledge as a Full Stack Developer</p>
+<p>🔭  Recently completed project : <a href="https://github.com/ishikajoshi08/FreshShop.git">FreshShop Web application</a></p>
 
 
